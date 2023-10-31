@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhityaprimandhika
 - 👀 I’m interested in data science, machine learning, and backend
-- 🌱 I’m currently learning dataengineering, deep learning, and web development
+- 🌱 I’m currently learning data engineering, deep learning, and web development
 - 📫 For any collaboration you can visit my LinkedIn https://www.linkedin.com/in/adhityaprimandhika/
 
 <!---
