@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhityaprimandhika
-- 👀 I’m interested in data science, machine learning, and backend
-- 🌱 I’m currently learning data engineering, deep learning, and web development
+- 👀 I’m interested in Fullstack Development, Data Science, and Machine Learning
+- 🌱 I’m currently learning Angular, Spring Boot, and React Native
 - 📫 For any collaboration you can visit my LinkedIn https://www.linkedin.com/in/adhityaprimandhika/
 
 <!---
