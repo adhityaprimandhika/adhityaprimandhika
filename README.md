@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhityaprimandhika
-- 👀 I’m interested in Fullstack Development, Data Science, and Machine Learning
-- 🌱 I’m currently learning Angular, Spring Boot, and React Native
+- 👀 I’m interested in Backend, Data Science, and Machine Learning
+- 🌱 I’m currently learning Spring Boot, Kafka, and LLM
 - 📫 For any collaboration you can visit my LinkedIn https://www.linkedin.com/in/adhityaprimandhika/
 
 <!---
